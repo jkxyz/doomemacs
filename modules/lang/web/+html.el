@@ -16,6 +16,7 @@
   :mode "\\.eco\\'"
   :mode "wp-content/themes/.+/.+\\.php\\'"
   :mode "templates/.+\\.php\\'"
+  :mode "\\.njk\\'"
   :init
   ;; If the user has installed `vue-mode' then, by appending this to
   ;; `auto-mode-alist' rather than prepending it, its autoload will have
